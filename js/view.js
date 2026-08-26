@@ -133,8 +133,7 @@ function formatField(field, reflection) {
   }
   if (field.type === "toggleNote") {
     if (!value || (!value.done && !value.note)) return null;
-    const yn = value.done ? "Yes" : "No";
-    return { label: field.label, value: value.note ? `${yn} — ${value.note}` : yn };
+    return value.note ? { label: field.label, value: value.note } : null;
   }
   if (field.type === "saidDid") {
     if (!value || (!value.said && !value.did)) return null;
