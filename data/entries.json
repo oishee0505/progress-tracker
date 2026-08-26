@@ -1,0 +1,85 @@
+{
+  "days": {
+    "2026-08-25": {
+      "habits": {
+        "alcoholFree": true,
+        "exercise": true,
+        "cookedHome": false,
+        "meditation": true,
+        "sleepConsistent": false,
+        "keptCommitment": true,
+        "readLearned": false,
+        "aloneTime": true,
+        "kindness": false,
+        "gratitude": true
+      },
+      "reflection": {
+        "mood": 1,
+        "moodNote": "still very down about the situation rey and i are in and about everything i caused that brought us there",
+        "honesty": {
+          "done": true,
+          "note": ""
+        },
+        "followThrough": {
+          "said": "",
+          "did": false
+        },
+        "nicotine": "im still strugging with this one, not sure where to start. i did look into videos of a bunch of people that have quit and am leaning towards gum/patches and other methods like sugar and chewing something that might help. im also considering the nicotine free vapes. im not sure where to start but i should start experimenting. im mostly just scared of the first few days of withdrawals but it's just a few days so i need to build up the courage.",
+        "savedMoney": {
+          "done": true,
+          "note": "ate store bought ramen instead of getting food delivery and didn't get my toilet paper shipped - walked to the store instead"
+        },
+        "parentsConvo": {
+          "done": true,
+          "note": "went well, talked to both ma and ba talked about what's going on in their lives funny stories about their friends"
+        },
+        "good": "the walk today was really good, i explored a fun street with lots of restaurants, saw a lot of college kids with their friends and it made me nostalgic. also had a really long yap session with juhi about random stuff, was nice to get my mind off of things. also making this makes me feel better about working more concretely towards my goals.",
+        "hard": "it was hard to get out of bed and to leave the house. the sadness hits in waves so i find myself crying a lot and feeling down. my instagram reels are also full of stuff that just make me sad. i miss rey and i wish i could talk to him and hold him right now. i think i might take a break from reels. i also have no desire to listen to music or watch a movie so that's interesting.",
+        "learning": "im learning that when im down i need a lot of support, i miss my friends but i think im using them as a distraction so im trying to strengthen my mind and be by myself instead of running.",
+        "patience": {
+          "done": false,
+          "note": ""
+        },
+        "valueLived": "self awareness - im able to be a lot more reflective and taking action (eg recognizing that the reels arent helping)",
+        "freeWrite": "im still struggling a lot with how to get better. the days are long and hard and im trying to be positive. but i think it's getting better im learning and im glad im taking action to make this happen for myself."
+      }
+    }
+  },
+  "goals": [
+    {
+      "text": "learn more about quitting nicotine",
+      "done": false,
+      "createdAt": "2026-08-25"
+    },
+    {
+      "text": "find a book to read",
+      "done": false,
+      "createdAt": "2026-08-25"
+    },
+    {
+      "text": "build a more consistent routine that doesnt depend on if i can get out of the bed or not",
+      "done": false,
+      "createdAt": "2026-08-25"
+    },
+    {
+      "text": "find a gym or start home workouts",
+      "done": false,
+      "createdAt": "2026-08-25"
+    },
+    {
+      "text": "start journalling",
+      "done": false,
+      "createdAt": "2026-08-25"
+    },
+    {
+      "text": "maybe go to the park more",
+      "done": false,
+      "createdAt": "2026-08-25"
+    },
+    {
+      "text": "get back to prepping for jobs",
+      "done": false,
+      "createdAt": "2026-08-25"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>progress tracker — overview</title>
+<link rel="stylesheet" href="./css/styles.css" />
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <h1>progress tracker</h1>
+    <span class="date" id="date-label"></span>
+  </header>
+
+  <div class="day-nav">
+    <button type="button" class="ghost" id="prev-day-btn" aria-label="Previous day">←</button>
+    <input type="date" id="day-picker" aria-label="Pick a day" />
+    <button type="button" class="ghost" id="today-day-btn">Latest</button>
+    <button type="button" class="ghost" id="next-day-btn" aria-label="Next day">→</button>
+  </div>
+
+  <p class="help-note" id="load-note" hidden></p>
+
+  <nav class="tabs">
+    <button data-tab="overview" class="active">Overview</button>
+    <button data-tab="notes">Notes</button>
+    <button data-tab="goals">Goals</button>
+  </nav>
+
+  <div id="overview-panel" class="tab-panel active">
+    <div class="card">
+      <p class="section-title">Current streaks</p>
+      <div class="streak-grid" id="streak-grid"></div>
+    </div>
+  </div>
+
+  <div id="notes-panel" class="tab-panel">
+    <p class="section-title">Recent reflections</p>
+    <div id="recent-notes"></div>
+  </div>
+
+  <div id="goals-panel" class="tab-panel">
+    <div class="card">
+      <p class="section-title">Working on</p>
+      <div id="goals-list"></div>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="./js/view.js"></script>
+</body>
+</html>

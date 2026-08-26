@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>progress tracker — log</title>
+<link rel="stylesheet" href="./css/styles.css" />
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <h1>progress tracker</h1>
+    <span class="date" id="date-label"></span>
+  </header>
+
+  <div class="day-nav">
+    <button type="button" class="ghost" id="prev-day-btn" aria-label="Previous day">←</button>
+    <input type="date" id="day-picker" aria-label="Pick a day" />
+    <button type="button" class="ghost" id="today-day-btn">Today</button>
+    <button type="button" class="ghost" id="next-day-btn" aria-label="Next day">→</button>
+  </div>
+
+  <p class="help-note" id="load-note" hidden></p>
+
+  <nav class="tabs">
+    <button data-tab="habits" class="active">Habits</button>
+    <button data-tab="reflection">Reflect</button>
+    <button data-tab="goals">Goals</button>
+  </nav>
+
+  <div id="habits-panel" class="tab-panel active">
+    <div class="card">
+      <p class="section-title">Today's habits</p>
+      <div id="habits-list"></div>
+    </div>
+  </div>
+
+  <div id="reflection-panel" class="tab-panel">
+    <div class="card">
+      <p class="section-title">Reflection</p>
+      <div id="reflection-fields"></div>
+    </div>
+  </div>
+
+  <div id="goals-panel" class="tab-panel">
+    <div class="card">
+      <p class="section-title">Working on</p>
+      <div id="goals-list"></div>
+      <div class="goal-add-row">
+        <input type="text" id="new-goal-input" placeholder="Add a goal" />
+        <button id="add-goal-btn" aria-label="Add goal">+</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="save-bar">
+    <p class="help-note autosave-note" id="autosave-note">Edits save locally as you go</p>
+    <button class="primary" id="save-btn">Download entries.json</button>
+    <p class="help-note" id="save-note"></p>
+    <p class="help-note"><button type="button" class="link-btn" id="clear-draft-btn">Clear local draft</button></p>
+  </div>
+</div>
+
+<script type="module" src="./js/editor.js"></script>
+</body>
+</html>
