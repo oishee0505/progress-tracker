@@ -137,8 +137,7 @@ function formatField(field, reflection) {
   }
   if (field.type === "saidDid") {
     if (!value || (!value.said && !value.did)) return null;
-    const yn = value.did ? "Yes" : "No";
-    return { label: field.label, value: value.said ? `"${value.said}" — did it: ${yn}` : `Did it: ${yn}` };
+    return value.said ? { label: field.label, value: value.said } : null;
   }
   // plain text fields, including moodNote
   return value ? { label: field.label, value } : null;
