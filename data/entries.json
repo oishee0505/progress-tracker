@@ -65,8 +65,8 @@
           "note": ""
         },
         "followThrough": {
-          "said": "said id wake up at 10am and go work from a cafe today",
-          "did": true
+          "done": true,
+          "note": "said id wake up at 10am and go work from a cafe today"
         },
         "nicotine": "did more research today and actually landed on a plan instead of just being stuck - going to try gum, put the vape away, and eventually transition to patches. still scared of the withdrawal but having an actual plan feels a lot better than not knowing where to start.",
         "savedMoney": {
