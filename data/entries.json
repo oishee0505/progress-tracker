@@ -166,7 +166,7 @@
           "note": "dad had some interesting advice that helped me pick myself back up. with mom, she finally apologized for a lot of childhood trauma - i felt bad because she didnt know better at 27, so i forgave her. it was a really cathartic conversation and i realized i cant keep blaming her or them for where im going wrong. decided to make peace with what my childhood was and actually let go of it instead of holding onto it. forgiving her felt good too, i think she needed that. going forward i want to just try to be a better daughter to both of them."
         },
         "good": "got a lot of work done today on the startup and on job applications. dads advice helped me pick myself back up. juhi called - shes going through it with akshay and i helped just by talking to her, which felt nice, like some people still love and care about me and look to me for support. talked to sadiq too, hadnt spoken in a few days, that was nice.",
-        "hard": "didnt leave the house today which im upset about. still feel very lost. rey didnt text me all day even though he was supposed to fly back to houston, and he used to always text me on flights, so that not happening made me really sad. still crying a lot, feel really bad about who i was to him, and it hurt hearing that he doesnt recognize me anymore because i still feel like the same person with so much love for him and us. kept thinking about all the stuff i had planned for when he got back - cooking him curries, packing his lunches for the week, holding him, cuddling with him, giving him all the kisses, all of it - and about how happy i was when he said he might take the earlier flight back today. he's the one person that always felt like home , i hope i made him happy in some semblance and i hope he comes back , i miss the way we sounded, so pure and full of joy like when he used to try to lick me - i cant remember the last time i sounded that happy or when he tried to hide from me or when he tried to come back and scare me while i was pooping. i miss him  i keep hoping he's on a flight right now to come see me. i really messed up the only thing that made me happy i hope i can fix it though sigh. also still need to start doing more home workouts, havent gotten to that yet.",
+        "hard": "didnt leave the house today which im upset about. still feel very lost. rey didnt text me all day even though he was supposed to fly back to houston, and he used to always text me on flights, so that not happening made me really sad. still crying a lot, feel really bad about who i was to him, and it hurt hearing that he doesnt recognize me anymore because i still feel like the same person with so much love for him and us. kept thinking about all the stuff i had planned for when he got back - cooking him curries, packing his lunches for the week, holding him, all of it - and about how happy i was earlier today at the thought he might come home early. miss how we sounded together, so pure and full of joy, all our little things. keep hoping hes on a flight right now to come see me. also still need to start doing more home workouts, havent gotten to that yet.",
         "learning": "theres this myth about the solomon islands, popularized by movies, where when people want to cut a tree down the whole town stands around it and yells insults at it until it shrivels up and dies. its not true, but it made me think - i think ive been doing that to mom, and sometimes even dad, and i think my first step in healing actually starts there. after mom apologized today i realized i cant keep blaming them for where im at, it doesnt actually fix anything, it just wears them down. i need to accept my childhood happened and let it go instead of circling back to it every time im struggling.",
         "patience": {
           "done": true,
@@ -174,6 +174,50 @@
         },
         "valueLived": "self accountability - stopped blaming mom and dad for where im at, forgave her instead, and chose to stay and deal with things here instead of running to champaign",
         "freeWrite": "i miss rey so much, im still crying a lot. i really messed up the only thing that made me happy and i hope i can fix it. he's the one person that always felt like home. i hope i made him happy in some way and i hope he comes back."
+      }
+    },
+    "2026-08-29": {
+      "habits": {
+        "alcoholFree": true,
+        "exercise": false,
+        "cookedHome": false,
+        "meditation": true,
+        "sleepConsistent": false,
+        "keptCommitment": true,
+        "readLearned": true,
+        "aloneTime": true,
+        "kindness": false,
+        "gratitude": true
+      },
+      "reflection": {
+        "mood": 1,
+        "moodNote": "woke up really tired from having a hard conversation with rey the night before. brain was flooded with thoughts of \"where did i lie before is there something im forgetting how can i be better why am i this way is there something im missing in the things im doing to fix this habit of mine\" \"i know it's not a personality trait so where is it coming from\" then had another hard conversation with him today",
+        "honesty": {
+          "done": true,
+          "note": ""
+        },
+        "followThrough": {
+          "said": "keep up the \"no matter what, work everyday\" commitment",
+          "did": false
+        },
+        "nicotine": "didnt do much on the nicotine front today. should get back to it tomorrow",
+        "savedMoney": {
+          "done": true,
+          "note": "with mom sending me food today i didnt have to spend money on meals"
+        },
+        "parentsConvo": {
+          "done": true,
+          "note": "mom sent me some nice indian food today which made me feel happy and loved."
+        },
+        "good": "had a nice conversation with juhi about random stuff and her montreal trip. caught up with rohan after a while, which was nice. he told me what our friends have been up to. mom sent me nice indian food that made me feel happy and loved.",
+        "hard": "had a hard conversation with rey which left me feeling very sad. he called and said hes willing to revisit things in a few weeks to see if we still miss each other, but hes not willing to take me back right now - hes frustrated with himself for letting this happen and giving me that access. i asked if we'll find our way back to each other and he said maybe, he doesnt know. he said right now we're broken up and need to take a few steps back and just be friends, thats how hes feeling right now. decided to honor his boundaries but doing this over text makes it so much harder than if i could just be there with him. tried to work to keep up my commitment but couldnt fully focus. was an unproductive day overall.",
+        "learning": "i think im getting caught in the anxiety freeze thing again, which isnt good, i need to push through it. when my heart feels heavy or anxious i look for immediate fixes or answers or some way to control it, and since i cant control this situation i end up freezing and being unable to do things instead. i need to push myself to just do things and have a normal day even without the answers, maybe i'll learn by doing instead of by figuring it all out first.",
+        "patience": {
+          "done": true,
+          "note": "decided to honor reys boundaries even though i wish i could be there with him right now instead of doing this over text"
+        },
+        "valueLived": "respect - honoring reys boundaries even though it's hard and it hurts and i miss him and i wish i could just be there with him",
+        "freeWrite": "an uneventful day in a bad way. hearing we're broken up and need to be friends for now, with maybe a chance to revisit in a few weeks, was hard to sit with. wish tomorrow is more productive and less frozen than today was."
       }
     }
   },
@@ -204,18 +248,13 @@
       "createdAt": "2026-08-25"
     },
     {
-      "text": "go to the park more",
-      "done": false,
-      "createdAt": "2026-08-25"
-    },
-    {
       "text": "get back to prepping for jobs",
       "done": true,
       "createdAt": "2026-08-25"
     },
     {
       "text": "buy a mat and follow along home workout videos",
-      "done": false,
+      "done": true,
       "createdAt": "2026-08-26"
     },
     {
