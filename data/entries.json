@@ -219,6 +219,50 @@
         "valueLived": "respect - honoring reys boundaries even though it's hard and it hurts and i miss him and i wish i could just be there with him",
         "freeWrite": "an uneventful day in a bad way. hearing we're broken up and need to be friends for now, with maybe a chance to revisit in a few weeks, was hard to sit with. wish tomorrow is more productive and less frozen than today was."
       }
+    },
+    "2026-08-30": {
+      "habits": {
+        "alcoholFree": true,
+        "exercise": true,
+        "cookedHome": false,
+        "meditation": true,
+        "sleepConsistent": false,
+        "keptCommitment": true,
+        "readLearned": true,
+        "aloneTime": true,
+        "kindness": true,
+        "gratitude": true
+      },
+      "reflection": {
+        "mood": 2,
+        "moodNote": "still missing rey a lot. i thought nights would be the hardest part, but it really just hits me randomly throughout the day. i could be doing the most mundane thing and suddenly miss him so much all over again.",
+        "honesty": {
+          "done": true,
+          "note": ""
+        },
+        "followThrough": {
+          "said": "keep up the \"work everyday no matter what\" commitment",
+          "did": true
+        },
+        "nicotine": "nothing to report today.",
+        "savedMoney": {
+          "done": true,
+          "note": "didnt really spend on anything today - stayed in and did an at-home self care night instead of going out."
+        },
+        "parentsConvo": {
+          "done": true,
+          "note": "talked to my parents today, didnt really talk to anyone else - needed the space and kind of isolated, but felt like i needed it right now."
+        },
+        "good": "finally washed my hair, shaved, and had a self care night - felt like a new person. listened to a lot of my old music for the first time in a while, which made me feel a lot better, including kiss me through the phone which instantly made me happier. got a lot of work done - interview prep, the startup stuff, finding a pool, making lists, clearing emails, responding to people - so hopefully im finding my way back to who i used to be. grateful for the friends who have seen the worst version of me and still chose to stay.",
+        "hard": "still missing rey randomly throughout the day, no matter what im doing. realizing i probably need to stop pushing for the relationship since he's told me he doesnt want it anymore, and figuring out whether im holding onto it too tightly is a hard thing to sit with. sleep paralysis is showing up again, which is a little worrying since its been a while and the last few times ive gone through it alone - also made me think about whether that fear of sleeping is part of why i used to drink, though im not drinking right now until i figure that out.",
+        "learning": "realized something about the lying pattern today: i do something im embarrassed about -> i fear someones judgment or reaction -> i try to control what they think of me by changing the truth -> once ive lied, shame makes me double down on it.\n\noutside of the childhood stuff, i think the bigger thing i need to work on is my fear of other peoples perception of me. i have this need to be seen as good, responsible, competent, someone who doesnt do stupid or disappointing things. and when i do something that threatens that image, i panic and try to fix the perception instead of just owning what happened.\n\nso i need to start deliberately practicing being imperfect in front of people. telling the truth when it makes me look stupid. admitting when i forgot something. saying “i was wrong.” not explaining myself to death. not changing small details to make myself look better. letting someone be annoyed or disappointed in me without treating it like an emergency.\n\nthe goal isnt to become better at avoiding situations where people might judge me. the goal is to become someone who can tolerate being judged and still tell the truth.",
+        "patience": {
+          "done": false,
+          "note": ""
+        },
+        "valueLived": "discipline - i was still really sad today and missing rey constantly, but i exercised, meditated, read, worked on interview prep and the startup, cleared emails, handled things ive been putting off, and took care of myself instead of letting the entire day disappear because i felt bad.",
+        "freeWrite": "listening to she goin up right now and missing rey. ive always associated this song with him in a strange way because, as insane as the lyrics are, the “made her life brand new” part always felt a little like us to me. being with him genuinely changed my life. i learned so much from him. about the world, about myself, about how to think about things differently, and i grew a lot just from loving him and doing life with him. he brought so much into my life that im genuinely grateful for, and at the same time there was something so simple about it too. i just really loved being his girl.\n\ntoday actually felt like a tiny move back toward myself. i listened to my old music again. i took care of myself. i worked. i exercised. i meditated. i handled boring things ive been avoiding. none of it magically made me less sad, but the fact that i stayed true to what i told myself i would do made me feel slightly good.\n\ni think thats probably what this is going to look like for a while - not some huge transformation, just repeatedly doing the things i said i would do until i trust myself again and can be someone im proud of."
+      }
     }
   },
   "goals": [
@@ -239,7 +283,7 @@
     },
     {
       "text": "find a gym or start home workouts",
-      "done": false,
+      "done": true,
       "createdAt": "2026-08-25"
     },
     {
